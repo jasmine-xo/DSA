@@ -37,13 +37,13 @@
 1. Git bash terminal access in VS Code
 2. Venv creation.
 
-Ctrl+shift+p
-Type “Python create environment”
-Select Python create environment
-Select venv
-Env will be created.
-Right clk .venv
-Open in integrated terminal.
+- Ctrl+shift+p
+- Type “Python create environment”
+- Select Python create environment
+- Select venv
+- Env will be created.
+- Right clk .venv
+- Open in integrated terminal.
 
 ```bash 
 pip install jupyter
